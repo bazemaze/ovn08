@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace övn08
 {
-        const int arLength = 5;
+    const int arLength = 5;
     class Program
     {
         static void Main(string[] args)
